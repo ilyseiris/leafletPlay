@@ -15,10 +15,10 @@ var houseIcon = L.icon({
 })
 
 var myHouse = L.marker ([40.712934, -73.989794], {icon: houseIcon}) .addTo(map);
-myHouse.bindPopup("My Chinese Shoebox").openPopup();
+myHouse.bindPopup("A Chinatown Shoebox").openPopup();
 
 var lizzieHouse = L.marker ([40.674899,-73.963617], {icon: houseIcon}) .addTo(map);
-lizzieHouse.bindPopup("Whoopi's House").openPopup();
+lizzieHouse.bindPopup("A Prospect Heights Matchbook").openPopup();
 
 var firstHouse = L.marker ([40.681939, -73.979651], {icon: houseIcon}) .addTo(map);
 firstHouse.bindPopup("A Park Slope Closet").openPopup();

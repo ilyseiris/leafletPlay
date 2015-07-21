@@ -21,4 +21,4 @@ var ZOOM0004 = L.marker ([37.77141, -122.445513], {icon: circleIcon}) .addTo(map
 ZOOM0004.bindPopup("We're between Page and Oak and there's a pile of bricks and there's a sign that says FREE BRICK, nor plural, singular, so I think you're only allowed one.").openPopup();
 
 var ZOOM0080 = L.marker ([37.807088, -122.431662], {icon: circleIcon}) .addTo(map);
-fZOOM0080.bindPopup("I have strong memories of my first trip to San Francisco where I came to Fort mason every day over the course of a four day weekend to compete in the Magic the Gathering World Championships.").openPopup();
+fZOOM0080.bindPopup("I came to Fort mason every day over the course of a four day weekend to compete in the Magic the Gathering World Championships.").openPopup();

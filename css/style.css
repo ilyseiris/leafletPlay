@@ -1,8 +1,10 @@
 body {
   padding: 30px;
+  background-color: #000000
+  text: #ffffff;
 }
 
-#map{
+map{
 height: 400px;
 }
 

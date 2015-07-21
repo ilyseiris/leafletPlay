@@ -1,9 +1,9 @@
-var map = L.map ('map').setView([37.766813, -122.41692], 13);
+var map = L.map ('map').setView([37.766813, -122.41692], 12);
 
 L.tileLayer('http://{s}.tile.stamen.com/watercolor/{z}/{x}/{y}.png', {
 	attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
 	maxZoom: 17,
-	minZoom: 13,
+	minZoom: 12,
 }).addTo(map);
 
 var circleIcon = L.icon({

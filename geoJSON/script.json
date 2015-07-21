@@ -1,0 +1,165 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.41692,37.766813 ]
+    },
+    "properties": {
+    "Street":"1471 15th St",
+    "City":"San Francisco",
+    "State":"California",
+    "Country":"United States of America",
+    "Name":"ZOOM0004",
+    "Soundcloud ID":213531961,
+    "Field Note":"In the left most window, there is a set of very positive messages suitable for a variety of special life occasions"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.445513,37.77141 ]
+    },
+    "properties": {
+    "Street":"Masonic btw Page and Oak",
+    "City":"San Francisco",
+    "State":"California",
+    "Country":"United States of America",
+    "Name":"ZOOM0043",
+    "Soundcloud ID":213531960,
+    "Field Note":"We're between Page and Oak and there's a pile of bricks and there's a sign that says \"FREE BRICK,\" nor plural, singular, so I think you're only allowed one."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423808,37.763098 ]
+    },
+    "properties": {
+    "Street":"Corner of 17th and Guerrero (Southeast)",
+    "City":"San Francisco",
+    "State":"California",
+    "Country":"United States of America",
+    "Name":"ZOOM0087",
+    "Soundcloud ID":213531957,
+    "Field Note":"At the corner of 17th and Guerrero and I find it wonderful that some people in this city have permission to graffiti the sidewalk with their own special code, I'm looking at some that says TS with red stripes, there's also some orange stripes next to it, and I really want to know what it means. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.453881,37.760706 ]
+    },
+    "properties": {
+    "Street":"second hairpin turn on the woodland creek historic trail section after entering the trail at 17th and Stanyan",
+    "City":"San Francisco",
+    "State":"California",
+    "Country":"United States of America",
+    "Name":"ZOOM0118",
+    "Soundcloud ID":213531955,
+    "Field Note":"We are at the second hairpin turn on the woodland creek historic trail section after entering the trail at 17th and Stanyan and I was here at dusk a couple months ago and there was an owl on the branch directly above where I'm standing now and I heard it hooting when I was on the lower part of the trail and I actually saw it, I stopped to lok around for it on the second hairpin turn which where we are, and I looked around and I looked around and I couldn't see it anywhere, but I knew it was in this area but I thought it had flown away, and then someone else came up the trail and said hi and then took out her camera and pointed it at the owl. So cooperatively we found the owl. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.500069,37.781281 ]
+    },
+    "properties": {
+    "Street":"Clement and 39th (southwest corner)",
+    "City":"San Francisco",
+    "State":"California",
+    "Country":"United States of America",
+    "Name":"ZOOM0164",
+    "Soundcloud ID":213531953,
+    "Field Note":"So I'm at the corner of 39th and Clement, um, we found a lovely, I would say early 90s mass-produced photograph still life of a vase, are these lilies of sorts? [don't forget the frame] the frame is a  mauve of sorts, and it's mounted to some rusty nails that were already in this telephone pole, probably for a lost cat or a yard sale, but it seems appropriate on this corner, clement and 39th. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415311,37.754667 ]
+    },
+    "properties": {
+    "Street":"Shotwell between 22nd and 23rd",
+    "City":"San Francisco",
+    "State":"California",
+    "Country":"United States of America",
+    "Name":"ZOOM0189",
+    "Soundcloud ID":213531952,
+    "Field Note":" Still on Shotwell between 22nd and 23rd and there's a terrifying dirty Elmo chair tucked in a plastic tucked in a plastic bin, it looks like it's reaching out to hug you as it's melting away, and I wonder how many other Elmo objects are similarly decaying on the sides of street somewhere. "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.454439,37.73854 ]
+    },
+    "properties": {
+    "Street":"Mt Davidson, cross",
+    "City":"San Francisco",
+    "State":"California",
+    "Country":"United States of America",
+    "Name":"ZOOM0277",
+    "Soundcloud ID":213531948,
+    "Field Note":"Wild strawberries, the upper staircase of Mt. Davidson"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.387437,37.747524 ]
+    },
+    "properties": {
+    "Street":"3rd at Islais Landing (on bridge)",
+    "City":"San Francisco",
+    "State":"California",
+    "Country":"United States of America",
+    "Name":"ZOOM0357",
+    "Soundcloud ID":213531947,
+    "Field Note":"We are on Third st overlooking Islais Landing, there is a chain link fence with barbed wire and looking through the fence observing a pelican perched atop a post above the water with the sun sparkling brightly on the water, and sutro tower off in the distance, a few wispy clouds in the sky, and traffic flowing by"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.417199,37.781391 ]
+    },
+    "properties": {
+    "Street":"Larkin and Golden Gate (corner)",
+    "City":"San Francisco",
+    "State":"California",
+    "Country":"United States of America",
+    "Name":"ZOOM0415",
+    "Soundcloud ID":213531945,
+    "Field Note":"federal building, pain to go to post office there because metal detectors"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.404625,37.800018 ]
+    },
+    "properties": {
+    "Street":"montgomery and green",
+    "City":"San Francisco",
+    "State":"California",
+    "Country":"United States of America",
+    "Name":"ZOOM0481",
+    "Soundcloud ID":213531943,
+    "Field Note":"pirate ship in the bay"
+    }
+  }
+]
+}
